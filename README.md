@@ -4,7 +4,7 @@
 ---
 
 ## 🌎 Sobre mí
-- 💻 Estudiante de **Fullstack Web & Mobile Development** | Apasionado por aprender y construir soluciones tecnológicas.
+- 💻 Estudiante de **Fullstack & Mobile Development** | Apasionado por aprender y construir soluciones tecnológicas.
 - 📚 Siempre aprendiendo nuevas tecnologías para mejorar mis habilidades.
 - 🤝 Abierto a colaborar en proyectos interesantes y desafiantes.
 - 📫 Cómo contactarme: **madaipinto@gmail.com**
