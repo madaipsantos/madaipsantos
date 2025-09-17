@@ -22,8 +22,10 @@
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madaipsantos&show_icons=true&count_private=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaipsantos&langs_count=10&count_private=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madaipsantos&show_icons=true&count_private=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaipsantos&langs_count=10&count_private=true&theme=tokyonight" />
 </p>
 
 ---
