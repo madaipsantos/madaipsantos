@@ -27,7 +27,7 @@
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madaipsantos&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madaipsantos&show_icons=true&count_private=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaipsantos&layout=compact&theme=tokyonight" />
 </p>
 
@@ -35,14 +35,14 @@
 
 ## 🔥 Racha de commits
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=madaipsantos&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madaipsantos&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 Actividad reciente
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madaipsantos&theme=tokyo-night" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=madaipsantos&theme=react-dark" />
 </p>
 
 ---
