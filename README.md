@@ -26,15 +26,6 @@
 
 ---
 
-## 🚀 Proyectos destacados
-| Proyecto | Descripción | Tecnologías |
-|----------|------------|------------|
-| [MiPortafolio](https://github.com/madaipsantos/miportafolio) | Portafolio personal mostrando mis proyectos y habilidades | React, Node.js |
-| [AppMobile](https://github.com/madaipsantos/appmobile) | Aplicación móvil para gestión de tareas | Flutter, Dart |
-| [API-Rest](https://github.com/madaipsantos/api-rest) | API RESTful para gestión de usuarios y productos | Node.js, PostgreSQL |
-
----
-
 ## 📊 Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madaipsantos&show_icons=true&count_private=true&theme=tokyonight" width="48%" />
