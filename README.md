@@ -4,7 +4,7 @@
 ---
 
 ## 🌎 Sobre mí
-- 💻 Actualmente trabajando en proyectos de **desarrollo mobile y backend**
+- 💻 Actualmente trabajando en proyectos de desarrollo móvil y backend.**
 - 📚 Siempre aprendiendo nuevas tecnologías para mejorar mis habilidades
 - 🤝 Abierto a colaborar en proyectos interesantes y desafiantes
 - 📫 Cómo contactarme: **madaipinto@gmail.com**
