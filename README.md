@@ -16,15 +16,29 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+---
+
+## 🚀 Proyectos destacados
+| Proyecto | Descripción | Tecnologías |
+|----------|------------|------------|
+| [MiPortafolio](https://github.com/madaipsantos/miportafolio) | Portafolio personal mostrando mis proyectos y habilidades | React, Node.js |
+| [AppMobile](https://github.com/madaipsantos/appmobile) | Aplicación móvil para gestión de tareas | Flutter, Dart |
+| [API-Rest](https://github.com/madaipsantos/api-rest) | API RESTful para gestión de usuarios y productos | Node.js, PostgreSQL |
 
 ---
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madaipsantos&show_icons=true&count_private=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaipsantos&langs_count=10&count_private=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madaipsantos&show_icons=true&count_private=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaipsantos&langs_count=10&count_private=true&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -32,7 +46,6 @@
 ## 🔥 Racha de commits
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madaipsantos&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=madaipsantos&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
