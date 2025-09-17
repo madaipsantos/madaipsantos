@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Madai P. Santos</h1>
-<h3 align="center">Desarrollo Fullstack Web & Mobile Development </h3>
+<h3 align="center">Desarrollo Fullstack & Mobile Development </h3>
 
 ---
 
