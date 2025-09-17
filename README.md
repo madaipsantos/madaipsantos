@@ -1,13 +1,13 @@
-<h1 align="center">Hola 👋, soy Madailton Santos</h1>
+<h1 align="center">Hola 👋, soy Madai P. Santos</h1>
 <h3 align="center">Desarrollador apasionado por la tecnología y la innovación</h3>
 
 ---
 
 ## 🌎 Sobre mí
-- 💻 Actualmente trabajando en proyectos de **desarrollo web y backend**
+- 💻 Actualmente trabajando en proyectos de **desarrollo mobile y backend**
 - 📚 Siempre aprendiendo nuevas tecnologías para mejorar mis habilidades
 - 🤝 Abierto a colaborar en proyectos interesantes y desafiantes
-- 📫 Cómo contactarme: **tucorreo@ejemplo.com**
+- 📫 Cómo contactarme: **madaipinto@gmail.com**
 - 🌐 LinkedIn: [linkedin.com/in/madaipsantos](https://www.linkedin.com/in/madaipsantos)
 
 ---
