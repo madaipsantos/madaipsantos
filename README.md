@@ -28,14 +28,14 @@
 ## 📊 Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madaipsantos&show_icons=true&count_private=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaipsantos&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaipsantos&langs_count=10&count_private=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Racha de commits
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=madaipsantos&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madaipsantos&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
