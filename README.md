@@ -16,7 +16,7 @@
 ## ⚡ Tecnologías & Herramientas 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> 
-  <img src="https://mi-instancia-vercel.vercel.app/api/top-langs/?username=madaipsantos&langs_count=8&layout=donut&count_private=true&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p> 
 
 --- 
@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=madaipsantos&show_icons=true&count_private=true&theme=tokyonight" /> 
 </p> 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaipsantos&langs_count=10&count_private=true&theme=tokyonight" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaipsantos&langs_count=8&layout=compact&count_private=true&theme=radical" /> 
 </p> 
 
 --- 
