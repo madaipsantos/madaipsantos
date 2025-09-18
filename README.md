@@ -16,7 +16,7 @@
 ## ⚡ Tecnologías & Herramientas 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaipsantos&langs_count=8&layout=donut&count_private=true&theme=tokyonight" />
+  <img src="https://mi-instancia-vercel.vercel.app/api/top-langs/?username=madaipsantos&langs_count=8&layout=donut&count_private=true&theme=tokyonight" />
 </p> 
 
 --- 
