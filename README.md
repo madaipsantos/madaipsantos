@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=madaipsantos&show_icons=true&count_private=true&theme=tokyonight" /> 
 </p> 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaipsantos&langs_count=8&layout=donut&count_private=true&theme=tokyonight" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaipsantos&langs_count=10&count_private=true&theme=tokyonight" />
 </p> 
 
 --- 
