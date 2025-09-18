@@ -18,33 +18,35 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub (Gráficos Modernos)
 <p align="center">
-  <!-- Estadísticas generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=madaipsantos&show_icons=true&count_private=true&theme=tokyonight" />
+  <!-- Estadísticas generales estilo tarjetas modernas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=madaipsantos&show_icons=true&count_private=true&theme=radical" />
 </p>
 
 <p align="center">
-  <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaipsantos&langs_count=10&count_private=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Racha de commits
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=madaipsantos&theme=tokyonight&hide_border=true" />
+  <!-- Top languages con barras redondeadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaipsantos&langs_count=8&layout=compact&count_private=true&theme=radical" />
 </p>
 
 ---
 
-## 📈 Actividad reciente
+## 🔥 Racha de commits (Estilo circular)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madaipsantos&theme=tokyo-night" />
+  <img src="https://streak-stats.demolab.com/?user=madaipsantos&theme=radical&hide_border=false&mode=weekly" />
+</p>
+
+---
+
+## 📈 Actividad reciente (Calendario colorido)
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=madaipsantos&theme=react-dark&hide_border=true" />
 </p>
 
 ---
