@@ -4,14 +4,12 @@
 --- 
 
 ## 🌎 Sobre mí
-<p align="center">
-  🎓 Estudiante de Grado en Ingeniería de Software<br>
-  💻 Fullstack & Mobile Developer<br>
-  🚀 Apasionado por aprender y construir soluciones tecnológicas<br>
-  🤝 Abierto a colaborar en proyectos interesantes y desafiantes<br>
-  📫 Cómo contactarme: <strong>madaipinto@gmail.com</strong><br>
-  🌐 LinkedIn: <a href="https://www.linkedin.com/in/madaipsantos">linkedin.com/in/madaipsantos</a>
-</p>
+- 🎓 Estudiante de Grado en Ingeniería de Software
+- 💻 Fullstack & Mobile Developer
+- 🚀 Apasionado por aprender y construir soluciones tecnológicas
+- 🤝 Abierto a colaborar en proyectos interesantes y desafiantes
+- 📫 Cómo contactarme: <strong>madaipinto@gmail.com</strong>
+- 🌐 LinkedIn: <a href="https://www.linkedin.com/in/madaipsantos">linkedin.com/in/madaipsantos</a>
 
 --- 
 
