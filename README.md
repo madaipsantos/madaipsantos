@@ -1,14 +1,16 @@
-<h1 align="center">Hola 👋, soy Madai P. Santos</h1>
-<h3 align="center">Desarrollo Fullstack & Mobile Development </h3>
+<h1 align="center">👋 Hola, soy Madai P. Santos</h1>
+<h3 align="center">Desarrollo Fullstack & Mobile Development</h3>
 
 ---
 
 ## 🌎 Sobre mí
-- 💻 Estudiante de **Fullstack & Mobile Development** | Apasionado por aprender y construir soluciones tecnológicas.
-- 📚 Siempre aprendiendo nuevas tecnologías para mejorar mis habilidades.
-- 🤝 Abierto a colaborar en proyectos interesantes y desafiantes.
-- 📫 Cómo contactarme: **madaipinto@gmail.com**
-- 🌐 LinkedIn: [linkedin.com/in/madaipsantos](https://www.linkedin.com/in/madaipsantos)
+<p align="center">
+💻 Estudiante de <strong>Fullstack & Mobile Development</strong> | Apasionado por aprender y construir soluciones tecnológicas.<br>
+📚 Siempre aprendiendo nuevas tecnologías para mejorar mis habilidades.<br>
+🤝 Abierto a colaborar en proyectos interesantes y desafiantes.<br>
+📫 Cómo contactarme: <strong>madaipinto@gmail.com</strong><br>
+🌐 LinkedIn: <a href="https://www.linkedin.com/in/madaipsantos">linkedin.com/in/madaipsantos</a>
+</p>
 
 ---
 
@@ -22,10 +24,20 @@
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
+  <!-- Estadísticas generales -->
   <img src="https://github-readme-stats.vercel.app/api?username=madaipsantos&show_icons=true&count_private=true&theme=tokyonight" />
 </p>
+
 <p align="center">
+  <!-- Lenguajes más usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaipsantos&langs_count=10&count_private=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Racha de commits
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=madaipsantos&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
