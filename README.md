@@ -1,9 +1,9 @@
-<h1 align="center">Hola 👋, soy Madai P. Santos</h1> 
+<h1 align="center">Hello 👋, I'm Madai P. Santo</h1> 
 <h3 align="center">Full Stack Developer | Web & Mobile Applications</h3> 
 
 --- 
 
-## 🌎 Sobre mí
+## 🌎 About me
 - 🎓 Undergraduate Student in Software Engineering
 - 💻 Full Stack Developer
 - 🚀 Passionate about learning and building technological solutions
