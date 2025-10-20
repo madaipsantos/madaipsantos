@@ -8,7 +8,7 @@
 - 💻 Full Stack Developer
 - 🚀 Passionate about learning and building technological solutions
 - 🤝 Open to collaborating on interesting and challenging projects
-- 📫 Cómo contactarme: <strong>madaipinto@gmail.com</strong>
+- 📫 How to contact me: <strong>madaipinto@gmail.com</strong>
 - 🌐LinkedIn: <a href="https://www.linkedin.com/in/madai-p-dos-santos" target="_blank">linkedin.com/in/madai-p-dos-santos</a>
 
 --- 
