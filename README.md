@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Madai P. Santos</h1> 
-<h3 align="center">Fullstack Developer | Web & Mobile Applications</h3> 
+<h3 align="center">Full Stack Developer | Web & Mobile Applications</h3> 
 
 --- 
 
 ## 🌎 Sobre mí
 - 🎓 Undergraduate Student in Software Engineering
-- 💻 Fullstack Developer
+- 💻 Full Stack Developer
 - 🚀 Apasionado por aprender y construir soluciones tecnológicas
 - 🤝 Abierto a colaborar en proyectos interesantes y desafiantes
 - 📫 Cómo contactarme: <strong>madaipinto@gmail.com</strong>
