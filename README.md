@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Madai P. Santos</h1> 
-<h3 align="center">Junior Software Engineer | Web & Mobile Applications</h3> 
+<h3 align="center">Fullstack Developer | Web & Mobile Applications</h3> 
 
 --- 
 
 ## 🌎 Sobre mí
-- 🎓 Estudiante de Grado en Ingeniería de Software
-- 💻 Fullstack & Mobile Developer
+- 🎓 Undergraduate Student in Software Engineering
+- 💻 Fullstack Developer
 - 🚀 Apasionado por aprender y construir soluciones tecnológicas
 - 🤝 Abierto a colaborar en proyectos interesantes y desafiantes
 - 📫 Cómo contactarme: <strong>madaipinto@gmail.com</strong>
