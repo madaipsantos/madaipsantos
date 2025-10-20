@@ -6,10 +6,10 @@
 ## 🌎 Sobre mí
 - 🎓 Undergraduate Student in Software Engineering
 - 💻 Full Stack Developer
-- 🚀 Apasionado por aprender y construir soluciones tecnológicas
-- 🤝 Abierto a colaborar en proyectos interesantes y desafiantes
+- 🚀 Passionate about learning and building technological solutions
+- 🤝 Open to collaborating on interesting and challenging projects
 - 📫 Cómo contactarme: <strong>madaipinto@gmail.com</strong>
-- 🌐 LinkedIn: <a href="https://www.linkedin.com/in/madaipsantos">linkedin.com/in/madaipsantos</a>
+- 🌐 LinkedIn: <a href="[https://www.linkedin.com/in/madaipsantos](https://www.linkedin.com/in/madai-p-dos-santos-63006a158/?locale=en_US)">linkedin.com/in/madaipsantos</a>
 
 --- 
 
