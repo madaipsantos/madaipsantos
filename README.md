@@ -14,7 +14,7 @@
 
 --- 
 
-## ⚡ Tecnologías & Herramientas 
+## ⚡ Technologies and Tools
 <p align="center"> 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -24,7 +24,7 @@
 
 --- 
 
-## 📊 Estadísticas de GitHub 
+## 📊 GitHub Statistics
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=madaipsantos&show_icons=true&count_private=true&theme=tokyonight" /> 
 </p> 
@@ -34,11 +34,11 @@
 
 --- 
 
-## 📈 Actividad reciente 
+## 📈 Recent Activity
 <p align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=madaipsantos&theme=tokyo-night" /> 
 </p> 
 
 --- 
 
-<h3 align="center">✨ Gracias por visitar mi perfil ✨</h3>
+<h3 align="center">✨ Thank you for visiting my profile ✨</h3>
